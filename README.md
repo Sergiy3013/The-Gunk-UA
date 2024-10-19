@@ -1,4 +1,4 @@
-# A-Juggler-s-Tale-UA
+# The-Gunk-UA
 Не офіцйний українізатор до гри [The Gunk](https://store.steampowered.com/app/1087760/The_Gunk/). Машинний переклад (GPT-4o).
 
 # Встановлення
